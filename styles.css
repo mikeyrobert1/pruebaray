@@ -1,0 +1,27 @@
+html{
+    font-size: 62.5%;
+}
+
+img{
+    max-width: 50%;
+    align-items: center;
+    margin-top: 5%;
+    
+}
+body{
+    text-align: center;
+}
+h1 { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 4.5rem; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+}
+@media(max-width:800px){
+    h1{
+        font-size: 3rem;
+    }
+}
+     
+
